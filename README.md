@@ -8,4 +8,9 @@ The homework consisted of the following labs:
 1. Fitting a linear model to GRB Afterglow Photometry
     * Normal equations
     * LinearRegression (from sklearn)
-    * Minimizing an objective function (L1, L2, and $$\chi^2)
+    * Minimizing an objective function (L1, L2, and Chi2)
+2. Stock price analysis
+    * Scatter and correlation matrices
+    * Autocorrelation and partial autocorrelation plots
+    * ARMA and ARIMA model fitting
+    * AIC minimization
