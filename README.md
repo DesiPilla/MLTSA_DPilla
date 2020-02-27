@@ -1,7 +1,7 @@
 # Machine Learning for Time Series Analysis
 In my graduate studies at the University of Delaware, I enrolled in the course Machine Learning for Time Series Analysis
 (PHYS 667). The instructor was Dr. Federica Bianco. I have personally
-learned all concepts demonstrated in each assignment. The class repository can be found [here](https://github.com/fedhere/MLTSA).
+learned all concepts demonstrated in each assignment. The class repository can be found [here](https://github.com/fedhere/MLTSA_FBianco).
 
 ## Labs
 The homework consisted of the following labs:
