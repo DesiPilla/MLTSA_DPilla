@@ -14,3 +14,18 @@ The homework consisted of the following labs:
     * Autocorrelation and partial autocorrelation plots
     * ARMA and ARIMA model fitting
     * AIC minimization
+3. Uber Ride Frequency
+    * ARMA (Facebook Prophet)
+        * Trends and seasonality
+        * Regressors
+        * Holidays
+    * PyDLM
+4. Points of Change in Earthquake Data
+    * Single POC manually
+    * POC with ```ruptures```
+    * PyDLM
+5. Feature Engineering PLAsTIcC challenge (Parts 1 & 2)
+    * Preprocessing
+    * TSNE Projections
+    * AgglomerativeClustering & DBScan
+    * Random Forests & Gradient Boosted Classifiers
